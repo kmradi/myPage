@@ -1,2 +1,3 @@
 # myPage
-A web page dedicated to me by me :D
+My profile ...
+Also the first web page designed by me.
